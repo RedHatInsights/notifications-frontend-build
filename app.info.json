@@ -1,11 +1,11 @@
 {
   "app_name": "notifications",
-  "src_hash": "975af2b13e032caee8709e2b5f6794863bcd5aef",
+  "src_hash": "5b6f5929ac24ec19118ca6532727abe237f0d8a2",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "25",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/notifications-frontend/builds/719654478"
+    "build_number": "40",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/notifications-frontend/builds/727032748"
   }
 }
