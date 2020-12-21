@@ -1,12 +1,12 @@
 {
   "app_name": "notifications",
-  "src_hash": "1eaca7b498c13ac61e493e184a220f25b55d2d5d",
+  "src_hash": "4beed5f3c34cc720b2c28c61d24109e755d92eae",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.50.4","@patternfly/react-core@4.63.3","@patternfly/react-icons@4.7.11","@patternfly/react-styles@4.7.8","@patternfly/react-table@4.18.14"],
   "travis": {
     "event_type": "push",
-    "build_number": "150",
-    "build_web_url": "https://travis-ci.com/RedHatInsights/notifications-frontend/builds/207858214"
+    "build_number": "157",
+    "build_web_url": "https://travis-ci.com/RedHatInsights/notifications-frontend/builds/210068857"
   }
 }
