@@ -1,1 +1,10 @@
-{}
+{
+    "notifications": {
+        "entry": [
+            "/beta/apps/notifications/notifications.js"
+        ],
+        "modules": [
+            "/beta/apps/notifications/js/730.4c4e0b59959e78934989.js"
+        ]
+    }
+}
