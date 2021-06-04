@@ -1,0 +1,2 @@
+.notifications{@import'~@redhat-cloud-services/frontend-components/index.css';@import'~@redhat-cloud-services/frontend-components-notifications/index.css'}.notifications .pf-c-wizard__main-body{max-height:100%}.notifications .page__notifications#root{--pf-c-page__main-section--BackgroundColor: var(--pf-global--Color--light-100)}
+.notifications .notification-table .pf-c-table tbody>tr>:first-child::after{--pf-c-table__expandable-row--after--BorderLeftWidth: 0 }.notifications .pf-m-grid-md.pf-c-table tbody::after{--pf-c-table--tbody--after--BorderLeftWidth: 0 }
