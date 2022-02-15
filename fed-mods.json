@@ -1,10 +1,11 @@
 {
     "notifications": {
         "entry": [
-            "/apps/notifications/notifications.7993e27e130d2232f03f.js"
+            "/apps/notifications/notifications.1644931720955.2f29e85e3ae322dc459a.js"
         ],
         "modules": [
-            "/apps/notifications/js/730.578afc53e6d2101426e4.js"
+            "/apps/notifications/js/485.1644931720896.2f29e85e3ae322dc459a.js",
+            "/apps/notifications/css/485.c83e0b34ca8ccd9145d8.css"
         ]
     }
 }
