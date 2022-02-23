@@ -1,10 +1,10 @@
 {
     "notifications": {
         "entry": [
-            "/beta/apps/notifications/notifications.1645643815151.e5a4ed45ce2467f56384.js"
+            "/beta/apps/notifications/notifications.1645655817335.21531d9f06f255239bda.js"
         ],
         "modules": [
-            "/beta/apps/notifications/js/485.1645643815087.e5a4ed45ce2467f56384.js",
+            "/beta/apps/notifications/js/485.1645655817268.21531d9f06f255239bda.js",
             "/beta/apps/notifications/css/485.c83e0b34ca8ccd9145d8.css"
         ]
     }
