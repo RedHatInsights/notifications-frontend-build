@@ -1,16 +1,16 @@
 {
     "notifications": {
         "entry": [
-            "/beta/apps/notifications/notifications.1b09a02179198222707b.js"
+            "/beta/apps/notifications/notifications.3ed6d8cbaf20b7a87af4.js"
         ],
         "modules": [
-            "/beta/apps/notifications/js/4048.1b09a02179198222707b.js",
-            "/beta/apps/notifications/css/4048.14ae0f92216647889233.css",
-            "/beta/apps/notifications/js/9924.1b09a02179198222707b.js",
-            "/beta/apps/notifications/css/9924.66385de13fb383d5bbe3.css",
-            "/beta/apps/notifications/js/1654.1b09a02179198222707b.js",
-            "/beta/apps/notifications/js/5756.1b09a02179198222707b.js",
-            "/beta/apps/notifications/js/9478.1b09a02179198222707b.js"
+            "/beta/apps/notifications/js/192.3ed6d8cbaf20b7a87af4.js",
+            "/beta/apps/notifications/css/192.49954032afc362739cac.css",
+            "/beta/apps/notifications/js/9358.3ed6d8cbaf20b7a87af4.js",
+            "/beta/apps/notifications/css/9358.d31b674b1e95add2bbd7.css",
+            "/beta/apps/notifications/js/1654.3ed6d8cbaf20b7a87af4.js",
+            "/beta/apps/notifications/js/5756.3ed6d8cbaf20b7a87af4.js",
+            "/beta/apps/notifications/js/9478.3ed6d8cbaf20b7a87af4.js"
         ]
     }
 }
