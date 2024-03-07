@@ -1,15 +1,15 @@
 {
     "notifications": {
         "entry": [
-            "/beta/apps/notifications/notifications.877510ef1c901ae3b318.js"
+            "/beta/apps/notifications/notifications.4865a0e76265ffc4c0ca.js"
         ],
         "modules": [
-            "/beta/apps/notifications/js/364.877510ef1c901ae3b318.js",
+            "/beta/apps/notifications/js/364.4865a0e76265ffc4c0ca.js",
             "/beta/apps/notifications/css/364.9a579a94d7d8b22f7dff.css",
-            "/beta/apps/notifications/js/76.877510ef1c901ae3b318.js",
+            "/beta/apps/notifications/js/76.4865a0e76265ffc4c0ca.js",
             "/beta/apps/notifications/css/76.2574a69a9ca416ad7558.css",
-            "/beta/apps/notifications/js/794.877510ef1c901ae3b318.js",
-            "/beta/apps/notifications/js/147.877510ef1c901ae3b318.js"
+            "/beta/apps/notifications/js/794.4865a0e76265ffc4c0ca.js",
+            "/beta/apps/notifications/js/147.4865a0e76265ffc4c0ca.js"
         ]
     }
 }
