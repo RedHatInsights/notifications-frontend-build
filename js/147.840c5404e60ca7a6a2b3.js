@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknotifications_frontend=self.webpackChunknotifications_frontend||[]).push([[147],{85756:(e,n,t)=>{t.r(n),t.d(n,{ConnectedTimeConfig:()=>c,default:()=>f});var o=t(10756),i=t.n(o),r=t(28216),s=t(35794);const c=({store:e})=>i().createElement(r.Provider,{store:e},i().createElement(s.TimeConfigComponent,null)),f=c}}]);
+//# sourceMappingURL=../sourcemaps/147.90e30c4eb70ebea0fc9fdbe7f176061c.js.map
