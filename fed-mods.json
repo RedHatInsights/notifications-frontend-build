@@ -1,16 +1,1 @@
-{
-    "notifications": {
-        "entry": [
-            "/beta/apps/notifications/notifications.d6bddabbaa921c940e3b.js"
-        ],
-        "modules": [
-            "/beta/apps/notifications/js/8364.d6bddabbaa921c940e3b.js",
-            "/beta/apps/notifications/css/8364.9a579a94d7d8b22f7dff.css",
-            "/beta/apps/notifications/js/6076.d6bddabbaa921c940e3b.js",
-            "/beta/apps/notifications/css/6076.2574a69a9ca416ad7558.css",
-            "/beta/apps/notifications/js/5794.d6bddabbaa921c940e3b.js",
-            "/beta/apps/notifications/js/5756.d6bddabbaa921c940e3b.js",
-            "/beta/apps/notifications/js/7842.d6bddabbaa921c940e3b.js"
-        ]
-    }
-}
+{"name":"notifications","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/beta/apps/notifications/","loadScripts":["notifications.68e0be39e74b2b155765.js"],"buildHash":"3344ea7f244295c09ee5241bd92ad1fc"}
