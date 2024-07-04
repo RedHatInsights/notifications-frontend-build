@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[8545],{90926:(i,s,a)=>{a.r(s),a.d(s,{Badge:()=>e.E});var e=a(55665)}}]);

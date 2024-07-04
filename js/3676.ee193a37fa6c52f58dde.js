@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[3676],{41295:(t,n,i)=>{i.r(n),i.d(n,{Button:()=>o.$n,ButtonSize:()=>o.Mp,ButtonType:()=>o.VQ,ButtonVariant:()=>o.Ak});var o=i(72583)}}]);
