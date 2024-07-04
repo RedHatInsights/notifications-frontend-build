@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[3521],{45902:(i,n,s)=>{s.r(n),s.d(n,{Icon:()=>c.I});var c=s(8490)}}]);

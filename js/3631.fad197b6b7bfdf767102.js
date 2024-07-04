@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[3631],{26012:(e,i,n)=>{n.r(i),n.d(i,{Skeleton:()=>s.E});var s=n(71906)}}]);

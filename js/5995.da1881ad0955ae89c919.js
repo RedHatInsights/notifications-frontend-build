@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[5995],{18376:(i,n,e)=>{e.r(n),e.d(n,{Spinner:()=>s.y,spinnerSize:()=>s.J});var s=e(932)}}]);
