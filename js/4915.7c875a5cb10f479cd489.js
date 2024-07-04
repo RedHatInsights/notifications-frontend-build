@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[4915],{24915:(a,i,n)=>{n.r(i),n.d(i,{Pagination:()=>t.d,PaginationVariant:()=>t.A,ToggleTemplate:()=>e.D});var t=n(27472),e=n(29537)}}]);
