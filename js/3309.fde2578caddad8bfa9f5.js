@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[3309],{35690:(i,s,t)=>{t.r(s),t.d(s,{Grid:()=>e.x,GridItem:()=>n.E});var e=t(30620),n=t(23215)}}]);
