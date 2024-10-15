@@ -1,1 +1,1 @@
-{"name":"notifications","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/notifications/","loadScripts":["notifications.c4237e9edd8e2eca0373.js"],"buildHash":"04cd4380d004425af0d60ad1fe971b07"}
+{"name":"notifications","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/notifications/","loadScripts":["notifications.f6a763cd0418e050e306.js"],"buildHash":"fcfef15ef8e2c35a6df055634d01547e"}
