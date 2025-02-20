@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[858],{18477:(s,e,i)=>{i.r(e),i.d(e,{Bullseye:()=>a.a});var a=i(55318)}}]);
