@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[2236],{7474:(t,a,c)=>{c.r(a),c.d(a,{Stack:()=>i.B,StackItem:()=>s.a});var i=c(90678),s=c(73113)}}]);
