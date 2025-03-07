@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[8148,6286],{91069:(t,e,i)=>{i.r(e),i.d(e,{default:()=>r});var a=i(12968),n=i(75543),o=i(17823),c=i(58956);const r=function(){(0,a.getSharedScope)()["@notif-module/drawer"]={"1.0.0":{loaded:1,get:()=>({DrawerPanel:n.default,useNotificationDrawer:o.A,initialize:c.t.Instance.initialize,getState:c.t.getState})}}}}}]);
-//# sourceMappingURL=../../sourcemaps/exposed-./initNotificationScope.d3273676bfdc6f623bfa00f607296e2e.js.map
