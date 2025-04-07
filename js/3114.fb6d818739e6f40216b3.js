@@ -1,1 +1,0 @@
-(self.webpackChunknotifications=self.webpackChunknotifications||[]).push([[3114],{87034:()=>{},70043:()=>{}}]);
